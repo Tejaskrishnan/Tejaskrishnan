@@ -1,10 +1,18 @@
-# Hi, I'm Tejas 👋
-Software Engineer specializing in Java, Spring Boot, Angular, and Microservices, with experience building scalable and responsive applications.
+# Hey, I'm Tejas 👋
 
-## What I'm working on
-- Building full-stack products and LLM-powered automation
+**Software engineer who builds full-stack products, wires up microservices, and fixes bugs in open source for fun.**
 
-## Stack
-Java · Spring Boot · Angular · TypeScript · Python · Moleculer.js · Docker · GCP
+I works with Java, Spring Boot, and Angular, and I like using LLMs where they can replace real manual work.
 
-📫 LinkedIn: linkedin.com/in/tejaskrishnan1
+---
+
+### 🚀 What I'm up to
+- 🛠️ Building full-stack products and microservices
+- 🤖 Exploring LLM-powered automation
+- 🌍 Contributing to open source whenever I can
+
+### 🧰 Tech I work with
+`Java` · `Spring Boot` · `Angular` · `TypeScript` · `Python` · `Moleculer.js` · `OpenAPI` · `MongoDB` · `SQL` · `Docker` · `GCP`
+
+### 📫 Let's connect
+[LinkedIn](https://www.linkedin.com/in/tejaskrishnan1)
