@@ -1,5 +1,5 @@
 # Hi, I'm Tejas 👋
-Software engineer at Catalyca working with Java, Spring Boot, Angular, and microservices.
+Software Engineer specializing in Java, Spring Boot, Angular, and Microservices, with experience building scalable and responsive applications.
 
 ## What I'm working on
 - Building full-stack products and LLM-powered automation
